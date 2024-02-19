@@ -4,8 +4,6 @@ module.exports = {
             'language-name': 'english',
             toolbar: {
                 run: "Run all code (ctrl+shift+enter)",
-                upload: "upload to gallery",
-                clear: "clear all",
                 shuffle: "show random sketch",
                 random: "make random change",
                 "show-info": "show info window",
